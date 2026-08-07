@@ -8,7 +8,7 @@
   a stale cache.
 */
 
-var CACHE_VERSION = "happyologie-v1";
+var CACHE_VERSION = "happyologie-v2";
 
 var PRECACHE_URLS = [
   "./",
